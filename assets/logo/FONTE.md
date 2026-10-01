@@ -11,3 +11,5 @@ Para produção, substituir por arquivo vetorial ou PNG de alta resolução forn
 Paleta de interface aproximada visualmente a partir do logo (não são códigos certificados de um manual de marca): azul #103D78, turquesa escuro #087E9A, turquesa claro #58C7DA, azul profundo #092745 e fundo #E6F3F6. Os tons escuros garantem legibilidade em botões e texto.
 
 Cabeçalho: odontologia-horibe-transparente.png, versão com fundo removido por edição de imagem em 01/10/2026, derivada do JPG original preservado.
+
+A versão transparente é utilizada em todas as ocorrências da marca no site, incluindo apresentação, rodapé, favicon e metadados.
