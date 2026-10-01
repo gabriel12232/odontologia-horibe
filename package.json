@@ -1,0 +1,12 @@
+{
+  "name": "odontologia-horibe",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Landing page estática em HTML, CSS e JavaScript. Sem dependências.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "lint": "node scripts/check.mjs",
+    "build": "node scripts/build.mjs"
+  }
+}
