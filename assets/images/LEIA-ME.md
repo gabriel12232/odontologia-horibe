@@ -2,7 +2,7 @@
 
 Não há fotografias de ambientes ou profissionais no material entregue até agora. Os espaços coloridos no site estão explicitamente identificados como placeholders.
 
-- `clinica/hero.webp`: horizontal, 1600 × 1200 ou maior.
+- `clinica/hero-odontologia-horibe.jpg`: imagem principal do topo, otimizada em 1920 × 1920.
 - `clinica/recepcao.webp`: vertical, cerca de 1200 × 1400.
 - `clinica/consultorio.webp`: horizontal, cerca de 1000 × 750.
 - `clinica/detalhes.webp`: horizontal, cerca de 1000 × 650.

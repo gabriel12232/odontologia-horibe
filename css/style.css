@@ -93,7 +93,7 @@ em { font-family: var(--font-accent); font-weight: 400; letter-spacing: -.045em;
 .hero-visual { grid-column: 6 / 13; grid-row: 1; margin: 0 -24px 42px 35px; min-height: 550px; position: relative; border-top-left-radius: 170px; }
 .hero-visual::after { content: ''; position: absolute; bottom: 0; right: 0; width: 30%; height: 8px; background: var(--brand-accent); }
 .hero .media-frame { overflow: visible; }
-.hero-visual > img { border-top-left-radius: 170px; }
+.hero-visual > img { border-top-left-radius: 170px; object-position: center; }
 .hero-side { position: absolute; right: -51px; top: 150px; writing-mode: vertical-rl; font-size: 10px; letter-spacing: .2em; color: #bdddea; }
 .hero-location { position: absolute; z-index: 3; bottom: -28px; left: -50px; display: flex; align-items: center; gap: 22px; background: var(--brand-secondary); color: var(--white); padding: 22px 32px; min-width: 250px; }
 .hero-location strong { display: block; font-size: 18px; font-weight: 500; }
