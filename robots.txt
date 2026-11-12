@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://odontologia-horibe.gabrielcarraro9090.chatgpt.site/sitemap.xml
+Sitemap: https://odontologia-horibe-62rx.vercel.app/sitemap.xml

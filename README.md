@@ -31,7 +31,7 @@ A logo é a imagem original do Instagram, preservada sem alterações, em 150 ×
 
 ## SEO
 
-Title, description, canonical, Open Graph com logo, favicon, idioma, sitemap e schema Dentist estão implementados. Atualize URLs em index.html, robots.txt e sitemap.xml ao mudar o domínio. O domínio atual corresponde ao Site reservado para revisão privada; o acesso é controlado pela hospedagem.
+Title e description locais, canonical, Open Graph/Twitter Card, favicon, idioma, sitemap, robots e schema `WebSite` + `Dentist` estão implementados. As URLs absolutas apontam para `https://odontologia-horibe-62rx.vercel.app/`; atualize index.html, robots.txt, sitemap.xml e o verificador ao adotar um domínio próprio.
 
 ## Interações e acessibilidade
 
