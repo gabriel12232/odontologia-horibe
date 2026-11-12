@@ -9,7 +9,7 @@ Consulta: 1º de outubro de 2026. Endereço e WhatsApp também confirmados pelo 
 | Odontologia Horibe em Guarulhos | Briefing, perfil oficial e cadastros públicos | Publicada |
 | Associação de Edson Horibe com a clínica | Perfil oficial intitulado “Edson Horibe/Odontologia Guarulhos”; quadro societário lista Edson Horibe Tanaka | Nome publicado; sem especializações, formação ou CRO |
 | WhatsApp (11) 95337-8357 | Link wa.me/5511953378357 na bio oficial, publicações e confirmação do usuário | Todos os CTAs usam esse número |
-| Av. Marcial Lourenço Serôdio, 120, Cidade Serodio, Guarulhos/SP, 07151-370 | Confirmação expressa do usuário | Endereço usado na página, mapa e schema |
+| Av. Marcial Lourenço Serôdio, 170, sala 04, Cidade Serodio, Guarulhos/SP, 07151-370 | Confirmação expressa do usuário | Endereço usado na página, mapa e schema |
 | Aparelho autoligado | Publicação oficial de 30/07/2026 | Apresentado sem repetir promessas de rapidez, dor ou resultado |
 | Cuidados com bruxismo | Publicação oficial de 17/08/2026 | Apresentado como assunto/atendimento divulgado, sem presumir técnica específica |
 
@@ -23,7 +23,7 @@ O Instagram foi acessível pelo navegador sem login para nome, link da bio, iden
 
 ## Dados não publicados / conflitos
 
-- O cadastro empresarial em Casa dos Dados informa número **170, sala 04** e telefone **(11) 98192-0907**. Não foram usados: o usuário confirmou o endereço **120** e o WhatsApp oficial **95337-8357**. Cadastro empresarial não foi tratado como endereço atual de atendimento.
+- O endereço **170, sala 04** foi confirmado pelo usuário. O telefone do cadastro empresarial, **(11) 98192-0907**, não foi usado; o WhatsApp oficial confirmado continua sendo **(11) 95337-8357**.
 - StarOfService atribui à clínica 25 anos de atuação e 10 anos de docência, mas não oferece validação atual suficiente. Nenhuma dessas durações foi publicada.
 - O mesmo diretório menciona experiência em odontologia estética. O logo do Instagram contém “Estética Dental”, mas isso não comprova especialização nem lista de procedimentos. Não foram presumidos clareamento, implantes, facetas, equipamentos ou títulos.
 - Uma nota 5,0 aparece no agregador DentMap. Não foi possível validar origem, quantidade e direito de reutilização dos relatos; nenhuma nota ou avaliação foi publicada.

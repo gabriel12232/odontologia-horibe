@@ -16,7 +16,7 @@ for (const [, attribute, value] of html.matchAll(/\b(href|src)="([^"]+)"/g)) {
 const json = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1];
 const schema = JSON.parse(json);
 assert.equal(schema.telephone, '+5511953378357');
-assert.equal(schema.address.streetAddress, 'Av. Marcial Lourenço Serôdio, 120');
+assert.equal(schema.address.streetAddress, 'Av. Marcial Lourenço Serôdio, 170, sala 04');
 const whatsapp = [...html.matchAll(/href="(https:\/\/wa\.me\/[^\"]+)"/g)].map(match => new URL(match[1]));
 assert(whatsapp.length >= 4, 'CTAs esperados ausentes');
 for (const url of whatsapp) {
