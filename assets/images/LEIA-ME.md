@@ -6,7 +6,7 @@ Não há fotografias de ambientes ou profissionais no material entregue até ago
 - `clinica/recepcao.webp`: vertical, cerca de 1200 × 1400.
 - `clinica/consultorio.webp`: horizontal, cerca de 1000 × 750.
 - `clinica/detalhes.webp`: horizontal, cerca de 1000 × 650.
-- `equipe/edson-horibe.webp`: vertical, cerca de 1000 × 1200.
+- `equipe/edson-horibe-tanaka.jpg`: retrato do profissional, otimizado em 1400 × 1400.
 - `tratamentos/`: reservado para imagens reais aprovadas, se desejado.
 
 Esses arquivos são sugestões de nomes, não assets existentes. Comprima em WebP ou AVIF. Não amplie artificialmente fotos pequenas.

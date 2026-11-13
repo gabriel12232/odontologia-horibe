@@ -192,6 +192,7 @@ details[open] .plus::after { transform: rotate(0); }
 .team-photo-wrap { position: relative; padding: 0 22px 22px 0; }
 .team-photo-wrap::after { content: ''; position: absolute; z-index: 0; width: 75%; height: 75%; background: var(--brand-primary); right: 0; bottom: 0; }
 .team-photo { aspect-ratio: 4 / 4.8; z-index: 1; }
+.team-photo > img { object-position: center; }
 .placeholder-portrait { background: #dcebef; color: var(--brand-primary); }
 .portrait-initials { font-family: var(--font-accent); font-size: clamp(85px, 11vw, 170px); line-height: 1; align-self: center; letter-spacing: -.085em; color: #427a9d; }
 .team-photo-caption { position: relative; z-index: 2; background: var(--brand-primary); color: var(--white); padding: 16px 20px; display: flex; justify-content: space-between; gap: 15px; font-size: 11px; letter-spacing: .04em; }
